@@ -1,0 +1,13 @@
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\bin\Debug\netcoreapp3.1\Teste-Q2.exe
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\bin\Debug\netcoreapp3.1\Teste-Q2.deps.json
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\bin\Debug\netcoreapp3.1\Teste-Q2.runtimeconfig.json
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\bin\Debug\netcoreapp3.1\Teste-Q2.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\bin\Debug\netcoreapp3.1\Teste-Q2.dll
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\bin\Debug\netcoreapp3.1\Teste-Q2.pdb
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.dll
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.pdb
+C:\Users\Windows\source\repos\Teste-Q2\Teste-Q2\obj\Debug\netcoreapp3.1\Teste-Q2.genruntimeconfig.cache
